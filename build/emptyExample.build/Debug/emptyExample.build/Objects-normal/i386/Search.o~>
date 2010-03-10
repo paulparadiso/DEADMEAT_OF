@@ -1,0 +1,23 @@
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:12: error: prototype for 'Node::Node(ofxVec2f*)' does not match any in class 'Node'
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.h:14: error: candidates are: Node::Node(const Node&)
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.h:16: error:                 Node::Node()
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:18: error: expected `)' before '*' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp: In function 'ofxVec2f getNextMove()':
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:27: error: 'path' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:27: error: 'openedNodes' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:31: error: 'findLowestF' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:32: error: 'addToClosedList' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:35: error: 'mind' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:35: error: 'edge' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:36: error: 'isOnClosedList' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:36: error: expected `)' before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:41: error: expected primary-expression before '}' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:41: error: expected `;' before '}' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:46: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:50: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:56: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:68: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:78: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:88: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:98: error: a function-definition is not allowed here before '{' token
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.cpp:104: error: expected `}' at end of input

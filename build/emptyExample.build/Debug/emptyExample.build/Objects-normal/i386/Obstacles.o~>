@@ -1,0 +1,4 @@
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Obstacles.cpp:60: error: no 'int Obstacles::isWalkable(int, int)' member function declared in class 'Obstacles'
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Obstacles.cpp: In member function 'int Obstacles::isWalkable(int, int)':
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Obstacles.cpp:61: error: ISO C++ forbids comparison between pointer and integer
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Obstacles.cpp:63: error: ISO C++ forbids comparison between pointer and integer

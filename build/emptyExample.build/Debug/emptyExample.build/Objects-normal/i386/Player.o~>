@@ -1,0 +1,7 @@
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp:58: error: prototype for 'ofxVec2f Player::getPos()' does not match any in class 'Player'
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp:46: error: candidate is: ofxVec2f* Player::getPos()
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp:58: error: 'ofxVec2f Player::getPos()' and 'ofxVec2f* Player::getPos()' cannot be overloaded
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp:62: error: prototype for 'void Player::setHeading(ofSerial*)' does not match any in class 'Player'
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.h:32: error: candidate is: void Player::setHeading(int)
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp: In member function 'void Player::setHeading(ofSerial*)':
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Player.cpp:74: error: 'angle' was not declared in this scope

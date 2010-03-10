@@ -1,0 +1,5 @@
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Mind.cpp: In constructor 'Mind::Mind(Player*, Obstacles*)':
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Mind.cpp:15: error: 'astar' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Mind.cpp:15: error: no matching function for call to 'Astar::Astar(Mind* const)'
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.h:39: note: candidates are: Astar::Astar()
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/Search.h:37: note:                 Astar::Astar(const Astar&)

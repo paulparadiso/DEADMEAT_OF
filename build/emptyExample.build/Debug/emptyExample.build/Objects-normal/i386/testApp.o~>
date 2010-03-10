@@ -1,0 +1,3 @@
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/testApp.cpp:8: error: 'serial' was not declared in this scope
+/Users/pp/code/of_preRelease_v0061_osx_FAT/apps/mine/gameboard/src/testApp.cpp:9: error: 'commandMap' was not declared in this scope
